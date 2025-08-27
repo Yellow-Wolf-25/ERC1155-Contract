@@ -1,3 +1,6 @@
 [submodule "Desktop/Arush Gupta/Solidity By Ex. Practice/ERC1155/lib/forge-std"]
 	path = Desktop/Arush Gupta/Solidity By Ex. Practice/ERC1155/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Desktop/Arush Gupta/Solidity By Ex. Practice/Iterable Mapping/lib/forge-std"]
+	path = Desktop/Arush Gupta/Solidity By Ex. Practice/Iterable Mapping/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
